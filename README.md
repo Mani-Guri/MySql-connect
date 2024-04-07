@@ -1,2 +1,2 @@
 # MySql-connect
-author - guri
+author - guri_singh
